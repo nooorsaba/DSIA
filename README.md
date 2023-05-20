@@ -1,4 +1,4 @@
-# Numpay
+# Numpy
 mport numpy as np
 np.__version__
 '1.24.3'
